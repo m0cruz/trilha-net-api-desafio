@@ -24,7 +24,7 @@ Não se esqueça de gerar a sua migration para atualização no banco de dados.
 **Swagger**
 
 
-![Métodos Swagger](swagger.png)
+![Métodos Swagger](swagger.png).
 
 
 **Endpoints**
